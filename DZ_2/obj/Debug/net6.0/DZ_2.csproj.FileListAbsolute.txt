@@ -1,0 +1,15 @@
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.csproj.AssemblyReference.cache
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.AssemblyInfoInputs.cache
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.AssemblyInfo.cs
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.csproj.CoreCompileInputs.cache
+D:\Учеба\DZ C#\DZ_2\bin\Debug\net6.0\DZ_2.exe
+D:\Учеба\DZ C#\DZ_2\bin\Debug\net6.0\DZ_2.deps.json
+D:\Учеба\DZ C#\DZ_2\bin\Debug\net6.0\DZ_2.runtimeconfig.json
+D:\Учеба\DZ C#\DZ_2\bin\Debug\net6.0\DZ_2.dll
+D:\Учеба\DZ C#\DZ_2\bin\Debug\net6.0\DZ_2.pdb
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.dll
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\refint\DZ_2.dll
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.pdb
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\DZ_2.genruntimeconfig.cache
+D:\Учеба\DZ C#\DZ_2\obj\Debug\net6.0\ref\DZ_2.dll
